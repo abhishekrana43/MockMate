@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,39 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+🎙️ MockMate
+
+🤖 MockMate — Your AI-powered voice interview buddy for practicing, preparing, and perfecting interviews.
+It simulates real interview scenarios using AI voice agents, helping candidates speak confidently and get instant feedback.
+
+✨ Features
+
+.🎤 Voice-based interviews — Talk naturally with an AI agent powered by Vapi
+
+.🤖 AI-generated interview questions — Domain & role-specific
+
+.📊 Instant feedback — Scores on fluency, clarity, and relevance
+
+.🔐 User authentication & data storage via Firebase
+
+.📝 Progress tracking — Save and review past interviews
+
+.🎨 Modern UI — Built with Next.js + Tailwind CSS
+
+🏗️ Tech Stack
+
+Frontend / Fullstack Framework
+
+.⚛️ Next.js (React framework with SSR & API routes)
+
+.🎨 Tailwind CSS (responsive, modern UI styling)
+
+AI Voice Agent
+
+.🗣️ Vapi (voice AI API for conversation & speech synthesis)
+
+Backend / Database / Auth
+
+.🔥 Firebase (authentication, Firestore, hosting, storage)
+>>>>>>> ad407e2ac578db590fd39e268fed85f85c74df19
